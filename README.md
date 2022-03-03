@@ -1,6 +1,9 @@
 # BBC-news-Classification-AI-project
 The aim of the model is to classify a BBC article into its category which is one of the 5 categories (business, entertainment, politics, sport, tech). The given input were a BBC folder which consists of 2225 documents from the BBC news website corresponding to stories in five topical areas from 2004-2005.
 
+To run the code, it is recommended to upload the file in Google Colab and it will directly able to run. If you want to run it from the command line, open it in Google Colab, and then, download the .py file and execute it in the command prompt by moving to the path of the file you download it and typing:
+python bbc.py
+
 To access the data, the bbc folder should be uploaded into Google Drive. Using Google Colab, you needed to grant the access and copy the link of the bbc folder and paste it into the code in the (bbc_path) variable. The code should be able to navigate through the categories folders and extract the data.
 
 There some chats provided for the data to be easier for understanding. 
