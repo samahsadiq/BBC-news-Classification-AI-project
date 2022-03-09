@@ -6,7 +6,7 @@ python bbc.py
 
 To access the data, the bbc folder should be uploaded into Google Drive. Using Google Colab, you needed to grant the access and copy the link of the bbc folder and paste it into the code in the (bbc_path) variable. The code should be able to navigate through the categories folders and extract the data.
 
-There some chats provided for the data to be easier for understanding. 
+There some charts provided for the data to be easier for understanding. 
 
 Some preprocessing techniques were used to clean the data from (stop-words, numbers, non-english words, punctuation, unnecessary spaces, new lines and uppercase).
 
